@@ -1,0 +1,6 @@
+streamlit
+requests
+pandas
+firebase-admin
+transformers
+torch
